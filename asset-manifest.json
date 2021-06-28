@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/product-landing-page/static/css/main.cc5f8e94.chunk.css",
+    "main.js": "/product-landing-page/static/js/main.3bdefe20.chunk.js",
+    "main.js.map": "/product-landing-page/static/js/main.3bdefe20.chunk.js.map",
+    "runtime-main.js": "/product-landing-page/static/js/runtime-main.11781aa9.js",
+    "runtime-main.js.map": "/product-landing-page/static/js/runtime-main.11781aa9.js.map",
+    "static/js/2.c365682a.chunk.js": "/product-landing-page/static/js/2.c365682a.chunk.js",
+    "static/js/2.c365682a.chunk.js.map": "/product-landing-page/static/js/2.c365682a.chunk.js.map",
+    "index.html": "/product-landing-page/index.html",
+    "static/css/main.cc5f8e94.chunk.css.map": "/product-landing-page/static/css/main.cc5f8e94.chunk.css.map",
+    "static/js/2.c365682a.chunk.js.LICENSE.txt": "/product-landing-page/static/js/2.c365682a.chunk.js.LICENSE.txt",
+    "static/media/mba.cf79f8c1.jpeg": "/product-landing-page/static/media/mba.cf79f8c1.jpeg",
+    "static/media/mbp13.34a71b84.jpeg": "/product-landing-page/static/media/mbp13.34a71b84.jpeg",
+    "static/media/mbp16.2a4abfb0.jpeg": "/product-landing-page/static/media/mbp16.2a4abfb0.jpeg",
+    "static/media/pineapple.1fc00177.png": "/product-landing-page/static/media/pineapple.1fc00177.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11781aa9.js",
+    "static/js/2.c365682a.chunk.js",
+    "static/css/main.cc5f8e94.chunk.css",
+    "static/js/main.3bdefe20.chunk.js"
+  ]
+}
